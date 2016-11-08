@@ -103,6 +103,7 @@ void connection_handler(int sockfd) {
 
     /* sending this file */
     file_sending_handler(sockfd, filename);
+    memset(filename, '\0', MAX_SIZE);
   }
 
   printf("[INFO] Connection closed (id: %d)\n", sockfd);
