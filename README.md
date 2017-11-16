@@ -98,11 +98,11 @@ $ ./client 127.0.0.1 8888
 Please also uplaod **your code** and **a screenshot of your result** to ilms system.
 ( Package them as `.zip` format and name after your **student ID**)
 
-- Deadline: 100%, before 2016/11/20 23:59 (Sun.)
-- Deadline: 80%, before 2016/11/27 23:59 (Sun.)
-- Deadline: 60%, before 2016/12/4 23:59 (Sun.)
+- Deadline: 100%, before 2017/12/08 23:59 (Fri.)
+- Deadline: 80%, before 2017/12/15 23:59 (Fri.)
+- Deadline: 60%, before 2017/12/22 23:59 (Fri.)
 
-After 2016/12/4, your submission is not accepted.
+After 2016/12/22, your submission is not accepted.
 
 ## Question
 Please feel free to ask questions at
